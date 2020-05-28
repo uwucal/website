@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script data-ad-client="pub-2515689491767567" async src="https://pagead2.googlesyndication.com/
+pagead/js/adsbygoogle.js"></script> 
     <title>Hamilton OhShape</title>
     <link rel="stylesheet" href="styles/styles.css" />
     <script async src="./javascript/index.js"></script>
