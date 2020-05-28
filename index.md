@@ -11,8 +11,8 @@
 
     <div class="image-section">
       <div class="section-style">
-        <img src="https://source.unsplash.com/random/400x200" alt="" />
-        <p>A random image!</p>
+        <img src="https://imgur.com/gBM6v1R" alt="" />
+        <p>OhShape Hamilton:</p>
       </div>
     </div>
   </body>
