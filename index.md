@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My webpage!</title>
+    <title>Hamilton OhShape</title>
     <link rel="stylesheet" href="styles/styles.css" />
     <script async src="./javascript/index.js"></script>
   </head>
   <body>
-    <h1>Random images!</h1>
+    <h1>OhShape Hamilton</h1>
     <h4 id='date'></h4>
 
     <div class="image-section">
